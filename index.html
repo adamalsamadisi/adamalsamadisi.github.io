@@ -1,41 +1,146 @@
----
-layout: home
-title: "Let's Boogie!"
----
-<div style="display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:10px;background-color:"red";>
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEkgI0W-2KSAA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718889681053?e=1772668800&v=beta&t=juEAN0RQ_PL5o7ZgzsFLa4xkgOOSnpBPYy7SlX6MVIE" alt="Photo of Adam" style="width:160px;height:160px;object-fit:cover;border-raddius:18px;">
-  <div style="max-width:740px;">
-    <h1 style="margin:0;">Dr. Alsamadisi here– and I like making things</h1>
-    <p style="margin:8px 0 0;font-size:1.05em;">
-      Models, maps, prototypes, and communities—where data science, making, and education meet.
-    </p>
-    <p style="margin:10px 0 0;">
-      I’m fulfilled when there’s a whiteboard, a workbench (and a little bit of mess).
-    </p>
+<!-- Page wrapper -->
+<div style="
+  background: #c7c3ff;
+  background: linear-gradient(180deg, #c7c3ff 0%, #eef0ff 55%, #ffffff 100%);
+  padding: 22px 16px 28px;
+  border-radius: 18px;
+">
+
+  <!-- HERO -->
+  <div style="
+    display:flex;
+    gap:18px;
+    align-items:center;
+    flex-wrap:wrap;
+    margin-top:10px;
+    padding: 16px;
+    border: 1px solid rgba(40,40,80,.18);
+    border-radius: 16px;
+    background: rgba(255,255,255,.70);
+    backdrop-filter: blur(6px);
+  ">
+    <img
+      src="https://media.licdn.com/dms/image/v2/D4E03AQEkgI0W-2KSAA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1718889681053?e=1772668800&v=beta&t=juEAN0RQ_PL5o7ZgzsFLa4xkgOOSnpBPYy7SlX6MVIE"
+      alt="Photo of Adam"
+      style="
+        width:160px;
+        height:160px;
+        object-fit:cover;
+        border-radius:18px;
+        border: 1px solid rgba(40,40,80,.25);
+        box-shadow: 0 10px 24px rgba(40,40,80,.18);
+      "
+    >
+    <div style="max-width:740px;">
+      <h1 style="
+        margin:0;
+        letter-spacing:-0.02em;
+        line-height:1.05;
+      ">Dr. Alsamadisi here– and I like making things</h1>
+
+      <p style="
+        margin:10px 0 0;
+        font-size:1.06em;
+        line-height:1.45;
+      ">
+        Models, maps, prototypes, and communities—where data science, creativity, and education meet.
+      </p>
+
+      <p style="
+        margin:10px 0 0;
+        line-height:1.45;
+        opacity:.92;
+      ">
+        I’m fulfilled when there’s a whiteboard, a workbench (and a little bit of mess).
+      </p>
+    </div>
   </div>
-</div>
 
-<hr style="margin:22px 0;">
+  <hr style="margin:22px 0;border:none;border-top:1px solid rgba(40,40,80,.18);">
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;">
-  <a href="/pillars/data-wild/" style="display:block;padding:14px;border:1px solid rgba(125,125,125,.35);border-radius:12px;text-decoration:none;">
-    <h2 style="margin:0 0 8px;font-size:1.1em;">📊🗺️ Data in the Classroom, Data in the Wild</h2>
-    <p style="margin:0;">
-      R-first data science learning: a library of labs I’ve written that teach thinking through doing—grounded in real GIS-flavored practice.
-    </p>
-  </a>
+  <!-- PILLARS -->
+  <div style="
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+    gap:14px;
+  ">
 
-  <a href="/pillars/spatial-storytelling/" style="display:block;padding:14px;border:1px solid rgba(125,125,125,.35);border-radius:12px;text-decoration:none;">
-    <h2 style="margin:0 0 8px;font-size:1.1em;">🗺️📍 GIS, Mapping &amp; Spatial Storytelling</h2>
-    <p style="margin:0;">
-      Spatial analysis and narrative mapping that make complex systems easier to see, explain, and act on.
-    </p>
-  </a>
+    <!-- 1) DATA SCIENCE -->
+    <a href="/pillars/data-science/" style="
+      display:block;
+      padding:14px 14px 16px;
+      border:1px solid rgba(40,40,80,.18);
+      border-radius:14px;
+      text-decoration:none;
+      color: inherit;
+      background: rgba(255,255,255,.78);
+      box-shadow: 0 8px 18px rgba(40,40,80,.10);
+      transition: transform .08s ease, box-shadow .08s ease;
+    " onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 26px rgba(40,40,80,.16)';"
+       onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 8px 18px rgba(40,40,80,.10)';">
+      <h2 style="margin:0 0 8px;font-size:1.08em;">📊 Data Science</h2>
+      <p style="margin:0;line-height:1.45;">
+        Computational data science learning: a library of R labs that I’ve written that teach Statistics in thinking-through-doing approach
+      </p>
+    </a>
 
-  <a href="/pillars/making-learning-design/" style="display:block;padding:14px;border:1px solid rgba(125,125,125,.35);border-radius:12px;text-decoration:none;">
-    <h2 style="margin:0 0 8px;font-size:1.1em;">🛠️🧠 Making, Prototyping &amp; Learning Design</h2>
-    <p style="margin:0;">
-      Curriculum, assessment innovation, and physical/digital prototypes—built through iteration, critique, and craft.
-    </p>
-  </a>
+    <!-- 2) GIS -->
+    <a href="/pillars/gis/" style="
+      display:block;
+      padding:14px 14px 16px;
+      border:1px solid rgba(40,40,80,.18);
+      border-radius:14px;
+      text-decoration:none;
+      color: inherit;
+      background: rgba(255,255,255,.78);
+      box-shadow: 0 8px 18px rgba(40,40,80,.10);
+      transition: transform .08s ease, box-shadow .08s ease;
+    " onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 26px rgba(40,40,80,.16)';"
+       onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 8px 18px rgba(40,40,80,.10)';">
+      <h2 style="margin:0 0 8px;font-size:1.08em;">🗺️ GIS, Mapping &amp; Spatial Storytelling</h2>
+      <p style="margin:0;line-height:1.45;">
+        Spatial analysis and StoryMapping with GIS that make complex systems easier to teach, explain, and understand
+      </p>
+    </a>
+
+    <!-- 3) AI -->
+    <a href="/pillars/ai/" style="
+      display:block;
+      padding:14px 14px 16px;
+      border:1px solid rgba(40,40,80,.18);
+      border-radius:14px;
+      text-decoration:none;
+      color: inherit;
+      background: rgba(255,255,255,.78);
+      box-shadow: 0 8px 18px rgba(40,40,80,.10);
+      transition: transform .08s ease, box-shadow .08s ease;
+    " onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 26px rgba(40,40,80,.16)';"
+       onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 8px 18px rgba(40,40,80,.10)';">
+      <h2 style="margin:0 0 8px;font-size:1.08em;">🤖 AI in Schools</h2>
+      <p style="margin:0;line-height:1.45;">
+        AI Curriculum &amp; Assessment Innovation
+      </p>
+    </a>
+
+    <!-- 4) CREATIONS -->
+    <a href="/pillars/creations/" style="
+      display:block;
+      padding:14px 14px 16px;
+      border:1px solid rgba(40,40,80,.18);
+      border-radius:14px;
+      text-decoration:none;
+      color: inherit;
+      background: rgba(255,255,255,.78);
+      box-shadow: 0 8px 18px rgba(40,40,80,.10);
+      transition: transform .08s ease, box-shadow .08s ease;
+    " onmouseover="this.style.transform='translateY(-2px)';this.style.boxShadow='0 12px 26px rgba(40,40,80,.16)';"
+       onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 8px 18px rgba(40,40,80,.10)';">
+      <h2 style="margin:0 0 8px;font-size:1.08em;">🛠️✨ Creations</h2>
+      <p style="margin:0;line-height:1.45;">
+        Things I’ve made—tools, prototypes, curriculum artifacts, and occasional weird experiments.
+      </p>
+    </a>
+
+  </div>
+
 </div>
