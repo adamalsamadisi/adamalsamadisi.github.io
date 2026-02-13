@@ -3,8 +3,9 @@ layout: page
 title: "Data Science"
 permalink: /pillars/data-science/
 ---
-
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600&family=Space+Grotesk:wght@600;700&display=swap">
 <div style="
+  font-family: 'Quicksand', system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
   background: rgba(255,255,255,.72);
   border: 1px solid rgba(40,40,80,.18);
   border-radius: 18px;
