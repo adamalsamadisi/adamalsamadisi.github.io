@@ -26,7 +26,7 @@ permalink: /pillars/data-science/
 <a href="https://flicker-fireman-5fe.notion.site/Linear-Regression-with-World-Happiness-Dataset-8b49a526304f488e8410f48131f15a24?source=copy_link" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none;color:inherit;">      <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
         <img src="https://raw.githubusercontent.com/adamalsamadisi/adamalsamadisi.github.io/refs/heads/main/pillars/data-science/HappinessRegression.png" alt="Regression thumbnail" style="width:100%;height:150px;object-fit:cover;display:block;">
         <div style="padding:12px 12px 14px;">
-          <h2 style="margin:0 0 8px;font-size:1.02em;">Linear Regression with the World Happiness Dataset</h2>
+          <h2 style="margin:0 0 8px;font-size:1.02em;">Learn Regression and Discuss Social Emotional Metrics!</h2>
           <p style="margin:0;line-height:1.45;opacity:.95;">
             Build and interpret linear regression models, check assumptions, and communicate results clearly.
           </p>
@@ -35,9 +35,9 @@ permalink: /pillars/data-science/
     </a>
 
 <a href="https://flicker-fireman-5fe.notion.site/Inferences-for-Categorical-Variables-Lab-a1d94ef43df540ed9103eb28fdc8457b?source=copy_link" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none;color:inherit;">      <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
-        <img src="[https://placehold.co/800x450?text=Categorical+Inference](https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/data-science/ChiSquarePlacard.png?raw=true)" alt="Categorical inference thumbnail" style="width:100%;height:150px;object-fit:cover;display:block;">
+        <img src="https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/data-science/ChiSquarePlacard.png?raw=true)" alt="Categorical inference thumbnail" style="width:100%;height:150px;object-fit:cover;display:block;">
         <div style="padding:12px 12px 14px;">
-          <h2 style="margin:0 0 8px;font-size:1.02em;">Inferences for Categorical Variables using NYC Arrest Distribution Data</h2>
+          <h2 style="margin:0 0 8px;font-size:1.02em;">Applying Statistics to the Social Sciences</h2>
           <p style="margin:0;line-height:1.45;opacity:.95;">
             Work with categorical distributions and inference while discussing context, limitations, and uncertainty.
           </p>
@@ -46,9 +46,9 @@ permalink: /pillars/data-science/
     </a>
 
 <a href="https://flicker-fireman-5fe.notion.site/Using-R-to-Explore-Black-History-Class-Version-7c65b6646b6b4ad5b229cf37a4519fd8" target="_blank" rel="noopener noreferrer" style="display:block;text-decoration:none;color:inherit;">      <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
-        <img src="[https://placehold.co/800x450?text=Tidyverse+Story](https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/data-science/BlackHistoryData.png?raw=true)" alt="Tidyverse thumbnail" style="width:100%;height:150px;object-fit:cover;display:block;">
+        <img src="https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/data-science/BlackHistoryData.png?raw=true" alt="Tidyverse thumbnail" style="width:100%;height:150px;object-fit:cover;display:block;">
         <div style="padding:12px 12px 14px;">
-          <h2 style="margin:0 0 8px;font-size:1.02em;">Using R &amp; Tidyverse to Explore Black History</h2>
+          <h2 style="margin:0 0 8px;font-size:1.02em;">Connecting Curriculum to DEI</h2>
           <p style="margin:0;line-height:1.45;opacity:.95;">
             Use tidyverse workflows to explore a dataset and craft a short, responsible “data story.”
           </p>
