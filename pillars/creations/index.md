@@ -27,19 +27,19 @@ permalink: /pillars/creations/
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:12px;align-items:start;">
 
     <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DU064pRERWD/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
-      <a href="https://www.instagram.com/p/DU064pRERWD/" target="_blank" rel="noopener noreferrer"></a>
-    </blockquote>
-
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DUzmMNIjW0I/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
       <a href="https://www.instagram.com/p/DUzmMNIjW0I/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
 
-    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DU3QpEEkS9v/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DUzmMNIjW0I/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
       <a href="https://www.instagram.com/p/DU3QpEEkS9v/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
 
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DU3QpEEkS9v/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
+      <a href="https://www.instagram.com/p/DU064pRERWD/" target="_blank" rel="noopener noreferrer"></a>
+    </blockquote>
+
     <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DU5zNwKkbEp/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
-      <a href="https://www.instagram.com/p/DU5zNwKkbEp/" target="_blank" rel="noopener noreferrer"></a>
+      <a href="https://www.instagram.com/p/CzCyWw2OX88/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
 
   </div>
