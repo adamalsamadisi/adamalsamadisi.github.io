@@ -38,6 +38,10 @@ permalink: /pillars/creations/
       <a href="https://www.instagram.com/reel/CoGhFZXrluB/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
 
+    <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DKUb66HxW0l/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
+      <a href="https://www.instagram.com/p/DKUb66HxW0l/" target="_blank" rel="noopener noreferrer"></a>
+    </blockquote>
+    
     <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DU3QpEEkS9v/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
       <a href="https://www.instagram.com/p/DU3QpEEkS9v/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
