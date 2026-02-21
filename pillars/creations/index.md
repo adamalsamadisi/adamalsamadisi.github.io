@@ -34,7 +34,7 @@ permalink: /pillars/creations/
       <a href="https://www.instagram.com/p/DUzmMNIjW0I/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
 
-        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/DUzmMNIjW0I/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
+        <blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/CoGhFZXrluB/" data-instgrm-version="14" style="background:#fff;border:0;border-radius:14px;overflow:hidden;margin:0;box-shadow:0 8px 18px rgba(40,40,80,.10);">
       <a href="https://www.instagram.com/reel/CoGhFZXrluB/" target="_blank" rel="noopener noreferrer"></a>
     </blockquote>
 
