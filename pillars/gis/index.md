@@ -27,28 +27,6 @@ permalink: /pillars/gis/
   <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px;">
 
     <!-- NOTION 1 -->
-    <a href="https://flicker-fireman-5fe.notion.site/Spatial-Analysis-for-Water-Resources-Part-1-6d5d0a2885894eb1b867d847de381142?source=copy_link"
-       target="_blank" rel="noopener noreferrer"
-       style="display:block;text-decoration:none;color:inherit;">
-      <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
-        <img src="https://placehold.co/800x450?text=Notion+Lab%3A+Water+Resources+Part+1" alt="Notion preview"
-             style="width:100%;height:150px;object-fit:cover;display:block;">
-        <div style="padding:12px 12px 14px;">
-          <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
-            <img src="https://www.google.com/s2/favicons?domain=notion.site&sz=64" alt="Notion icon" style="width:18px;height:18px;border-radius:4px;">
-            <span style="font-size:.92em;opacity:.8;">Notion</span>
-          </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">
-            Spatial Analysis for Water Resources (Part 1)
-          </h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">
-            A guided spatial analysis workflow focused on water resources.
-          </p>
-        </div>
-      </div>
-    </a>
-
-    <!-- NOTION 2 -->
     <a href="https://flicker-fireman-5fe.notion.site/Water-Resources-StoryMap-Journal-e59fbe5b9f1346198944263115969d5d?source=copy_link"
        target="_blank" rel="noopener noreferrer"
        style="display:block;text-decoration:none;color:inherit;">
@@ -64,13 +42,13 @@ permalink: /pillars/gis/
             Water Resources StoryMap Journal
           </h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">
-            A journal-style build process for a StoryMap on water resources.
+            A journal-style process through Water Analysis using ArcGIS Online, with some lessons adapted from ESRI
           </p>
         </div>
       </div>
     </a>
 
-    <!-- NOTION 3 -->
+    <!-- NOTION 2 -->
     <a href="https://flicker-fireman-5fe.notion.site/Island-Species-Project-1306da6d677480bf804bcb37dd719ddf?source=copy_link"
        target="_blank" rel="noopener noreferrer"
        style="display:block;text-decoration:none;color:inherit;">
@@ -92,7 +70,7 @@ permalink: /pillars/gis/
       </div>
     </a>
 
-    <!-- NOTION 4 -->
+    <!-- NOTION 3 -->
     <a href="https://flicker-fireman-5fe.notion.site/Introduction-to-Spatial-Data-Analysis-with-Python-44e6eefdcbbf447f9fc27f1e5c881a58?source=copy_link"
        target="_blank" rel="noopener noreferrer"
        style="display:block;text-decoration:none;color:inherit;">
@@ -134,7 +112,6 @@ permalink: /pillars/gis/
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
           <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Leverage the Power of Google Public Data</h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
     </a>
@@ -151,7 +128,6 @@ permalink: /pillars/gis/
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
           <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Here's an introduction to Google Earth Studio!</h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
     </a>
@@ -168,7 +144,6 @@ permalink: /pillars/gis/
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
           <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Creating a Biome StoryMap</h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
     </a>
@@ -185,7 +160,6 @@ permalink: /pillars/gis/
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
           <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Preparing iNaturalist Data for Linear Regression</h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
     </a>
@@ -202,7 +176,6 @@ permalink: /pillars/gis/
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
           <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Learn how to Use Google Earth Engine Timelapse and Esri's Business Analyst</h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
     </a>
@@ -219,7 +192,6 @@ permalink: /pillars/gis/
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
           <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">A How To Video for a 9th Grade Project on the Ghost Map</h3>
-          <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
     </a>
