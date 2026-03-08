@@ -31,7 +31,7 @@ permalink: /pillars/gis/
        target="_blank" rel="noopener noreferrer"
        style="display:block;text-decoration:none;color:inherit;">
       <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
-        <img src="https://placehold.co/800x450?text=Notion%3A+Water+Resources+StoryMap+Journal" alt="Notion preview"
+        <img src="https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/gis/WaterResources.png?raw=true" alt="Notion preview"
              style="width:100%;height:150px;object-fit:cover;display:block;">
         <div style="padding:12px 12px 14px;">
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
@@ -53,7 +53,7 @@ permalink: /pillars/gis/
        target="_blank" rel="noopener noreferrer"
        style="display:block;text-decoration:none;color:inherit;">
       <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
-        <img src="https://placehold.co/800x450?text=Notion+Project%3A+Island+Species" alt="Notion preview"
+        <img src="https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/gis/IslandSpecies.png?raw=true" alt="Notion preview"
              style="width:100%;height:150px;object-fit:cover;display:block;">
         <div style="padding:12px 12px 14px;">
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
@@ -70,12 +70,12 @@ permalink: /pillars/gis/
       </div>
     </a>
 
-    <!-- NOTION 3 -->
+    <!-- NOTION 4 -->
     <a href="https://flicker-fireman-5fe.notion.site/Introduction-to-Spatial-Data-Analysis-with-Python-44e6eefdcbbf447f9fc27f1e5c881a58?source=copy_link"
        target="_blank" rel="noopener noreferrer"
        style="display:block;text-decoration:none;color:inherit;">
       <div style="background: rgba(255,255,255,.82); border:1px solid rgba(40,40,80,.18); border-radius:14px; overflow:hidden; box-shadow:0 8px 18px rgba(40,40,80,.08);">
-        <img src="https://placehold.co/800x450?text=Notion+Lab%3A+Spatial+Data+Analysis+with+Python" alt="Notion preview"
+        <img src="https://github.com/adamalsamadisi/adamalsamadisi.github.io/blob/main/pillars/gis/Intro%20to%20Spatial%20Data%20Analysis.png?raw=true" alt="Notion preview"
              style="width:100%;height:150px;object-fit:cover;display:block;">
         <div style="padding:12px 12px 14px;">
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
