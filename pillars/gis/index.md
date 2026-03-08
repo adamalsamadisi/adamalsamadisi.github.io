@@ -133,7 +133,7 @@ permalink: /pillars/gis/
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Walkthrough Video 1</h3>
+          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Leverage the Power of Google Public Data</h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
@@ -150,7 +150,7 @@ permalink: /pillars/gis/
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Walkthrough Video 2</h3>
+          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Here's an introduction to Google Earth Studio!</h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
@@ -167,7 +167,7 @@ permalink: /pillars/gis/
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Walkthrough Video 3</h3>
+          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Creating a Biome StoryMap</h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
@@ -184,7 +184,7 @@ permalink: /pillars/gis/
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Walkthrough Video 4</h3>
+          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Preparing iNaturalist Data for Linear Regression</h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
@@ -201,7 +201,7 @@ permalink: /pillars/gis/
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Walkthrough Video 5</h3>
+          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Learn how to Use Google Earth Engine Timelapse and Esri's Business Analyst</h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
@@ -218,7 +218,7 @@ permalink: /pillars/gis/
           <div style="display:flex;gap:8px;align-items:center;margin-bottom:6px;">
             <span style="font-size:1.05em;">▶️</span><span style="font-size:.92em;opacity:.8;">YouTube</span>
           </div>
-          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">Walkthrough Video 6</h3>
+          <h3 style="margin:0 0 8px;font-size:1.02em; font-family:'Space Grotesk','Quicksand',system-ui,sans-serif;">A How To Video for a 9th Grade Project on the Ghost Map</h3>
           <p style="margin:0;line-height:1.45;opacity:.95;">Open video</p>
         </div>
       </div>
